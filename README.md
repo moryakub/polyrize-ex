@@ -36,4 +36,5 @@ the expected request body is: `{"data": [...your array of JSON objects...]}`, *f
 ***
 ### testing SERVERLESS ex.:  
 send a POST request as above (no need for token) to the endpoint:  
-`https://qomqbv7a79.execute-api.us-east-1.amazonaws.com/dev/normalize`
+`https://qomqbv7a79.execute-api.us-east-1.amazonaws.com/dev/normalize`  
+(the handler function is in `polyrize_ex/handler.py`)
